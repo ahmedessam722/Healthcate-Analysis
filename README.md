@@ -106,6 +106,6 @@
 -Admission and discharge patterns remain fairly stable across weekdays and months.
 - Billing and age are not heavily influenced by demographic or medical factors in this dataset.
 ## Project Structure
-├── healthcare_dataset.csv
-├── healthcare_eda.ipynb / .py
-└── README.md
+- ├── healthcare_dataset.csv
+- ├── healthcare_eda.ipynb / .py
+- └── README.md
